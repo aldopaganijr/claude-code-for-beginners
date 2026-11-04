@@ -1,8 +1,6 @@
-![Claude Code for Beginners — blue armored fighter versus red ninja](assets/course-banner.png)
+![Claude Code for Beginners](course-banner.png)
 
 # Claude Code for Beginners: Thrive in the AI Era
-
-*Your course cheat sheet — every link, repo, and tool, in one place.*
 
 > **Welcome to the course! 👋**
 >
