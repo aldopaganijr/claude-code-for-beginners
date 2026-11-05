@@ -2,6 +2,14 @@
 
 # Claude Code for Beginners: Thrive in the AI Era
 
+<p align="left">
+  <a href="https://zerotomastery.io/courses/claude-code-for-beginners/">
+    <img src="https://img.shields.io/badge/Take%20the%20Course-Zero%20To%20Mastery-D97757?style=for-the-badge" alt="Take the Course on Zero To Mastery" />
+  </a>
+</p>
+
+*New here? This repo goes with the [Claude Code for Beginners](https://zerotomastery.io/courses/claude-code-for-beginners/) course on Zero To Mastery. Start there to follow along.*
+
 > **Welcome to the course! 👋**
 >
 > Think of this page as your cheat sheet. Every link, repo, and tool I mention in the lessons is in here, so you never have to scrub back through a video to find something.
