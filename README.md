@@ -43,6 +43,7 @@
 - [Claude Code Models Overview](https://platform.claude.com/docs/en/models/overview)
 - [Claude Code Overview (all the ways to use it)](https://code.claude.com/docs/en/overview)
 - [Claude Code Desktop App](https://code.claude.com/docs/en/desktop)
+- [Harness Leaderboard](https://huggingface.co/spaces/joelniklaus/harness-leaderboard)
 
 ### Lesson: Installing Claude Code
 
